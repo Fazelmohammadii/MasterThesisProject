@@ -23,7 +23,7 @@ scripts/
 - **MutationalSpectrum.R**: Creates the mutational spectrum and performs statistical analysis of the mutations in CH and AML conditions.
   - **Usage**: Generates mutational spectrum plots and statistical summaries to compare CH and AML mutations.
 
-- **MutationalSignatures.R**: Analyzes the mutational signatures based on the COSMIC catalogues.
+- **MutationalSignatures.R**: Analyzes the mutational signatures based on the COSMIC catalogs.
   - **Usage**: Identifies and compares mutational signatures in the dataset using established COSMIC signatures.
 
 - **FeatureEngineering.R**: Creates new features and prepares the dataset for machine learning model training.
@@ -75,11 +75,5 @@ To train and test the machine learning models for mutation classification:
 ```r
 Rscript scripts/ModelTraining.R
 ```
-
-## Notes
-
-- Ensure that all dependencies are installed before running the scripts. Refer to `requirements.txt` for a list of required R packages.
-- Review each script's header comments for detailed usage instructions and parameters.
-- The scripts are designed to be run in sequence, starting with `PreProcessing.R` and ending with `ModelTraining.R`.
 
 This directory is an integral part of the thesis project, providing the necessary scripts to preprocess data, analyze mutations, engineer features, and develop machine learning models.
