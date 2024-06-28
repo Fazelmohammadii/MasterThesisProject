@@ -1,4 +1,4 @@
-# Thesis Project: Investigating Unique Mutations in DNMT3A and TET2 Genes in Clonal Hematopoiesis and Acute Myeloid Leukemia
+# A Comparative Analysis of Mutational Profiles in Clonal Hematopoiesis and Acute Myeloid Leukemia Patients
 
 ## Overview
 
