@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to the supplementary repository for my thesis project, focused on unraveling the complexities of unique mutations in DNMT3A and TET2 genes within clonal hematopoiesis (CH) and acute myeloid leukemia (AML) populations. This repository serves as a comprehensive backup of the project, providing access to the code, data, and supplementary materials used throughout the research. **It is important to note that this repository is not intended as a verified pipeline or research method, but rather as a supporting resource for my thesis.
+Welcome to the supplementary repository for my thesis project, focused on unraveling the complexities of unique mutations in DNMT3A and TET2 genes within clonal hematopoiesis (CH) and acute myeloid leukemia (AML) populations. This repository serves as a comprehensive backup of the project, providing access to the code, data, and supplementary materials used throughout the research. **It is important to note that this repository is not intended as a verified pipeline or research method, but rather as a supporting resource for my thesis.**
 
 ## Objectives
 
