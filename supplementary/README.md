@@ -4,9 +4,9 @@
 This directory contains supplementary data related to mutation lists categorized by subsets: CH (Clonal Hematopoiesis), AML (Acute Myeloid Leukemia), and Shared mutations.
 
 ## Contents
-- **CH_mutations.csv**: List of mutations found in Clonal Hematopoiesis.
-- **AML_mutations.csv**: List of mutations found in Acute Myeloid Leukemia.
-- **Shared_mutations.csv**: List of mutations shared between CH and AML.
+- **AS_mutlist.csv**: List of mutations in ASXL1 gene.
+- **DN_mutlist.csv**: List of mutations in DNMT3A gene.
+- **TT_mutlist.csv**: List of mutations in TET2 gene.
 
 ## File Formats
 - All mutation lists are provided in CSV (Comma-Separated Values) format for easy readability and compatibility with various data analysis tools.
